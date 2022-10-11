@@ -53,22 +53,13 @@ I'm passionate about technology, education, and community. I work to combine the
 
 ## &#x1f4c8; GitHub Stats
 
-<div align="center">
-
+<!-- make sure to have these 2 chunks of code without any gaps between them, in order to get them to sit side by side. (otherwise <p> tags get added around them.) -->
 [![GitHub statistics - languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=reneenoble&langs_count=3)](https://github.com/reneenoble/reneenoble)
-
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=reneenoble&show_icons=true)](https://github.com/reneenoble/reneenoble)
 
-</div>
 
-<a href="https://github.com/reneenoble/reneenoble">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reneenoble&langs_count=3" />
-</a>
-<a href="https://github.com/reneenoble/reneenoble">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reneenoble&show_icons=true" alt="Renee's GitHub Stats" />
-</a>
+[![Renee Noble GitHub contributions](https://denvercoder1-activity-graph.herokuapp.com/graph/?username=reneenoble&bg_color=efefefd&color=5896ef&line=da5b0b&point=da5b0b&hide_border=true)](https://github.com/reneenoble/github-readme-activity-graph)
 
-<a href="https://github.com/reneenoble/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=reneenoble&bg_color=efefefd&color=5896ef&line=da5b0b&point=da5b0b&hide_border=true" /></a>
 
 <br>
 
@@ -111,43 +102,23 @@ My passion for tech education isn't limitted to the adults, I love to promote ST
 
 Creating tech communities that focus on increasing representation is my true passion. Through the Girls' Programming Network we're working to give girls and gender diverse kids the confidence, skills, and mentors to take on the world of tech. We hope to extend this to more underrepresented groups in the future. 
 
-
-
-
-
-
-
-
 <br> 
 
 ## GitHub Trophies 🏆
 
-![](https://github-profile-trophy.vercel.app/?username=reneenoble&theme=onedark&no-frame=false&no-bg=false?_vercel_no_cache=1)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=reneenoble&theme=onedark&no-frame=false&no-bg=false?_vercel_no_cache=1)
 
 
 <br>
 
+## Recent Repos
 
+[![In The Code Garden - Intro to Python](https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=code-garden&theme=react&border_color=61dafb&border_radius=10)](https://github.com/reneenbole/code-garden)
 
+[![In The Code Garden - Create your portfolio](https://github-readme-stats.vercel.app/api/pin/?username=in-the-code-garden&repo=portfolio-template&theme=react&border_color=61dafb&border_radius=10)](https://github.com/in-the-code-garden/portfolio-template)
 
+[![Code To Cloud](https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=code-to-cloud&theme=react&border_color=61dafb&border_radius=10)](https://github.com/reneenbole/code-to-cloud)
 
-<div width="100%" align="center">
-
-
-<a  href="https://github.com/reneenbole/code-garden" title="In the Code Garden - Python"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=code-garden&theme=react&border_color=61dafb&border_radius=10"></a>
-
-<a href="https://github.com/in-the-code-garden/portfolio-template" title="Build your portfolio"><img align="left" height="120"  src="https://github-readme-stats.vercel.app/api/pin/?username=in-the-code-garden&repo=portfolio-template&theme=react&border_color=61dafb&border_radius=10"></a>
-
-
-
-<a  href="https://github.com/reneenbole/code-to-cloud" title="In the Code Garden - Python"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=code-to-cloud&theme=react&border_color=61dafb&border_radius=10"></a>
-
-
-<a href="https://github.com/reneenbole/what-in-the-worldle" title="What in the World-le"><img align="left" height="120"  src="https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=what-in-the-worldle&theme=react&border_color=61dafb&border_radius=10"></a>
-
-
-</div>
-
-
+[![What in the World-le](https://github-readme-stats.vercel.app/api/pin/?username=reneenoble&repo=what-in-the-worldle&theme=react&border_color=61dafb&border_radius=10)](https://github.com/reneenbole/what-in-the-worldle)
 
 <!-- [![Twitter Badge](https://img.shields.io/twitter/follow/noble_renee?style=social)](https://twitter.com/noble_renee) -->
