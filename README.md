@@ -44,11 +44,14 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/user/RENEELNOBLE/playlists"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a> -->
 </p>
 
+<br>
+
 ## Hi, I'm Renee 👋 
 
 <!-- Profile Blurb -->
 I'm passionate about technology, education, and community. I work to combine these in many ways thorugh many jobs!
 
+***You can see [my portfolio here](https://reneenoble.github.io/portfolio-morning/).***
 <br>
 
 ## &#x1f4c8; GitHub Stats
